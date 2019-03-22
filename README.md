@@ -1,2 +1,2 @@
-# node_labs
-NodeJS lab wokrs.
+# Node labs
+NodeJS labs, 4 semester of KPI.

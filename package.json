@@ -1,7 +1,7 @@
 {
-  "name": "start",
-  "version": "1.0.0",
-  "description": "NodeJS lab wokrs.",
+  "name": "js_4_sem_labs",
+  "version": "0.0.1",
+  "description": "NodeJS labs, 4 semester of KPI.",
   "main": "start.js",
   "scripts": {
     "start": "node index.js",
@@ -12,17 +12,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheSubliminal/node_labs.git"
+    "url": "git+https://github.com/Pyroarsonist/JS_4_sem_labs.git"
   },
-  "author": "Michael Fridrikhson",
+  "author": "Pyroarsonist",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TheSubliminal/node_labs/issues"
+    "url": "https://github.com/Pyroarsonist/JS_4_sem_labs/issues"
   },
-  "homepage": "https://github.com/TheSubliminal/node_labs#readme",
+  "homepage": "https://github.com/Pyroarsonist/JS_4_sem_labs#readme",
   "devDependencies": {
     "eslint": "^5.14.1",
     "now": "^14.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "ws": "^6.2.0"
+  }
 }
